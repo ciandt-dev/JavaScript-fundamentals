@@ -17,21 +17,21 @@ Obs: after finishing this _"course"_ you can continue to the [nodeJS - Fundament
 ## Content index ##
 
 ### Module 1 (1h) ###
-* [Variables](https://www.javascript.com/learn/javascript/variables)
-* Strings - [Javascript.com](https://www.javascript.com/learn/javascript/strings); [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
-* Numbers - [Javascript.com](https://www.javascript.com/learn/javascript/numbers); [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
-* Booleans - [Javascript.com](https://www.javascript.com/learn/javascript/booleans); [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
+* Variables - [Javascript.com](https://www.javascript.com/learn/variables); [MDN](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Vari%C3%A1veis)
+* Strings - [Javascript.com](https://www.javascript.com/learn/strings); [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+* Numbers - [Javascript.com](https://www.javascript.com/learn/numbers); [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
+* Booleans - [Javascript.com](https://www.javascript.com/learn/booleans); [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
 * [Null](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null)
 * [Undefined](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined)
-* Operators - [Javascript.com](https://www.javascript.com/learn/javascript/operators); [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)
-* Conditionals- [Javascript.com](https://www.javascript.com/learn/javascript/conditionals); [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+* Operators - [Javascript.com](https://www.javascript.com/learn/operators); [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)
+* Conditionals- [Javascript.com](https://www.javascript.com/learn/conditionals); [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
 * [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
 > [Exercise 1](./docs/exercises/1.module.md)
 
 ### Module 2 (1h) ###
-* Objects - [Javascript.com](https://www.javascript.com/learn/javascript/objects); [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
-* Arrays - [Javascript.com](https://www.javascript.com/learn/javascript/arrays); [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* Objects - [Javascript.com](https://www.javascript.com/learn/objects); [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+* Arrays - [Javascript.com](https://www.javascript.com/learn/arrays); [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 * [Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Numbers_and_dates#Date_object)
 
 > [Exercise 2](./docs/exercises/2.module.md)
@@ -39,7 +39,7 @@ Obs: after finishing this _"course"_ you can continue to the [nodeJS - Fundament
 ### Module 3 (1h) ###
 * [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
     * Online tool: [regex101](https://regex101.com/)
-* Functions - [Javascript.com](https://www.javascript.com/learn/javascript/functions); [MDN](https://developer.mozilla.org/en-US/docs/Glossary/Function)
+* Functions - [Javascript.com](https://www.javascript.com/learn/functions); [MDN](https://developer.mozilla.org/en-US/docs/Glossary/Function)
     * [Parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Function_parameters)
     * [Arguments object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Using_the_arguments_object)
 
